@@ -9,9 +9,9 @@ GitHub'a giriş yap: https://github.com/settings/tokens
 
 Aşağıdakileri seç:
 
-repo (tam repo erişimi)
+  * repo (tam repo erişimi)
 
-Süre: 30 gün (veya sana uygun başka bir süre)
+  * Süre: 30 gün (veya sana uygun başka bir süre)
 
 Token'ı oluştur ve kopyala. (🔴 Sadece 1 kez gösterilir)
 
