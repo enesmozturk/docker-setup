@@ -27,6 +27,11 @@ sudo systemctl start docker
 # Mevcut kullanıcıyı docker grubuna ekle (logout/login sonrası etkili olur)
 sudo usermod -aG docker $USER
 
+#Docker kurulum sonrası kurulan docker versiyonlarını gösterme
+docker --version
+docker compose version
+systemctl status docker
+
 # (Opsiyonel) Git repo'yu klonla
 # git clone https://github.com/kullanici/proje.git /home/$USER/proje
 
